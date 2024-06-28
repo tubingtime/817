@@ -1,8 +1,18 @@
-# Come Live at 817 Quarry Rd.
+# Come live at 817 Quarry Rd.
 
-## I'm 
 
-Hello hello
+I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
 
-![$900/m room](images/enzos-room-demo.webp "$900/m room")
+
+
+## The bedrooms
+
+### Enzo's Room
+![$900/m room](images/enzo-room2.png "$900/m room")
+
+
+
+### Blake's Room
+![$900/m room](images/josh-room%201.png "$900/m room")
+
 
