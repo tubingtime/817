@@ -1,4 +1,4 @@
-# Come live at 817E Quarry Road!
+# Come live at 817 Quarry Road!
 
 If you love nature but also love living in the city, the presidio is perfect for you! I've been living here for 2 years now and can't think of a place for me in SF.
 
