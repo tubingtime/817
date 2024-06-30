@@ -13,9 +13,9 @@ I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
 - Closet space
 - East facing window
 
-
-<img src="images/enzo-room2.png" alt="Enzo's Room" title="Enzo's Room" width=30% > 
-
+<p>
+<img src="images/enzo-room2.png" alt="Enzo's Room" title="Enzo's Room" width=30% /> 
+</p>
 
 
 ### Blake's Room ($1120/m)
