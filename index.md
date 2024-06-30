@@ -14,7 +14,7 @@ I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
 - East facing window
 
 
-<img src="images/enzo-room2.png" alt="Enzo's Room" title="Enzo's Room" width=30% /> 
+<img src="images/enzo-room2.png" alt="Enzo's Room" title="Enzo's Room" width=30% > 
 
 
 
