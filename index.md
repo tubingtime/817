@@ -14,7 +14,7 @@ I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
 - East facing window
 
 <p>
-<img src="./images/enzo-room2.png" alt="Enzo's Room" title="Enzo's Room" width=30% /> 
+<img src="./images/enzo-room2.png" alt="Enzo's Room" title="Enzo's Room" /> 
 </p>
 
 
@@ -26,8 +26,8 @@ I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
 
 <img src="images/blake-room2.png" alt="Blake's Room" title="Blake's Room" width=30% /> 
 
-
-
+![de:hub.de-Projekt](./images/blake-room2.png)
+![de:hub.de-Projekt](de_hub.jpg)
 ## About the Apartment
 
 It's a 4BR 1.5BA apartment with in unit washer dryer, a backyard, front yard, living room, kitchen, and living room. There is shared closet space as well.
