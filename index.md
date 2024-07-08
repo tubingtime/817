@@ -36,6 +36,15 @@ We like to keep things organized so we each have our own sections for storage in
 
 <img src="images/floor-plan.png" alt="Floor Plan" title="Floor Plan" /> 
 
+### Living Room
+
+<img src="images/living-room1.JPEG" alt="Living Room" title="Living Room" /> 
+
+### Kitchen (Example)
+
+<img src="images/kitchen-example.webp" alt="Kitchen" title="Kitchen" /> 
+
+
 ## Contact info
 
 Instagram: @tjdela
