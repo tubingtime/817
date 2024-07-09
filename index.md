@@ -56,5 +56,4 @@ We like to keep things organized so we each have our own sections for storage in
 
 ## Apply here!
 
-https://forms.gle/qQC1nATuPdigPwVC8
-
+[https://docs.google.com/forms/d/e/1FAIpQLSdgZ1_P7tYpvO-FaOH6Xd-NhfU3ro-qbGqekUXdLPnVKl8ibw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdgZ1_P7tYpvO-FaOH6Xd-NhfU3ro-qbGqekUXdLPnVKl8ibw/viewform?usp=sf_link)
