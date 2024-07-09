@@ -28,7 +28,16 @@ I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
 
 ## About the Apartment
 
-It's a 4BR 1.5BA apartment with in unit washer dryer, a backyard, front yard, living room, kitchen, and living room. There is shared closet space as well.
+It's a 4BR 1.5BA apartment with 
+- In unit washer dryer
+- A backyard
+- Bike storage shed 
+- Front yard
+- Kitchen with dishwasher, range/stove, applicanes, etc.
+- Large living room with couches, TV, dining table, etc.
+- Designated closet space
+
+Utilites are generally ~$130/m
 
 We like to keep things organized so we each have our own sections for storage in the closets, kitchen, and fridges.
 
@@ -45,10 +54,7 @@ We like to keep things organized so we each have our own sections for storage in
 <img src="images/kitchen-example.webp" alt="Kitchen" title="Kitchen" /> 
 
 
-## Contact info
+## Apply here!
 
-Instagram: @tjdela
-
-Email: tjdela@pm.me
-
+https://forms.gle/qQC1nATuPdigPwVC8
 
