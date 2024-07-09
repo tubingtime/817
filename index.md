@@ -1,8 +1,9 @@
 # Come live at 817 Quarry Road!
+<img src="images/presidio-bg.jpg" alt="Blake's Room" title="Blake's Room"> 
 
 If you love nature but also love living in the city, the presidio is perfect for you! I've been living here for 2 years now and can't think of a place for me in SF.
 
-I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
+I'm looking for 2 roommates to move in by Aug. 31 or earlier if desired.
 
 
 ## The bedrooms
@@ -14,7 +15,7 @@ I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
 - East facing window
 
 <p>
-<img src="./images/enzo-room2.png" alt="Enzo's Room" title="Enzo's Room" /> 
+<img src="./images/enzos-room1.jpg" alt="Enzo's Room" title="Enzo's Room" /> 
 </p>
 
 
@@ -24,7 +25,7 @@ I'm looking for 2 roomates to move in by Aug. 31 or earlier if desiered.
 - Closet space
 - East facing window
 
-<img src="images/blake-room2.png" alt="Blake's Room" title="Blake's Room" /> 
+<img src="images/blake-room2.png" alt="Blake's Room" title="Blake's Room"> 
 
 ## About the Apartment
 
@@ -33,11 +34,11 @@ It's a 4BR 1.5BA apartment with
 - A backyard
 - Bike storage shed 
 - Front yard
-- Kitchen with dishwasher, range/stove, applicanes, etc.
+- Kitchen with dishwasher, range/stove, appliances, etc.
 - Large living room with couches, TV, dining table, etc.
 - Designated closet space
 
-Utilites are generally ~$130/m
+Utilities are generally ~$130/m
 
 We like to keep things organized so we each have our own sections for storage in the closets, kitchen, and fridges.
 
