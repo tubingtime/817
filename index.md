@@ -45,6 +45,11 @@ We like to keep things organized so we each have our own sections for storage in
 ## About Us
 We are recent college graduates, 22 and 23, we like art, music, cooking, dancing, meditation, and the outdoors. 
 
+<img src="images/tj-rock.jpeg" alt="TJ at China Beach" title="TJ at China Beach" /> 
+TJ at China Beach. 
+
+
+
 
 
 ### Floor Plan
