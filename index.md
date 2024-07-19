@@ -38,9 +38,10 @@ It's a 4BR 1.5BA apartment with
 - Large living room with couches, TV, dining table, etc.
 - Designated closet space
 
-Utilities are generally ~$130/m
-
-We like to keep things organized so we each have our own sections for storage in the closets, kitchen, and fridges.
+Other things:
+- Utilities are generally ~$130/m
+- No pets
+- We like to keep things organized so we each have our own sections for storage in the closets, kitchen, and fridges.
 
 ## About Us
 We are recent college graduates, 22 and 23, we like art, music, cooking, dancing, meditation, and the outdoors. 
